@@ -1,4 +1,5 @@
 # Filmothèque
+![Filmothèque](./filmothèque.png)
 
 Création d'une filmothèque en utilisant Vue.js et l'API de TheMovieDB.  
 L'objectif principal est de permettre aux utilisateurs de découvrir le film du moment, d'obtenir des informations détaillées sur chaque film et de rechercher des films spécifiques via une barre de recherche.
